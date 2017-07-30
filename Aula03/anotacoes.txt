@@ -1,0 +1,6 @@
+Aula 03 - Hello world (1);
+Aula 03 - Criando o primeiro componente.
+
+Utilizando o Angular-cli
+
+Nomenclatura dos projetos deve começar com uma letra
